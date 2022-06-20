@@ -16,9 +16,11 @@ Customizable authorization role definition and assignments.
 Back-end routing rules enabling full control over the content and routes you serve.
 Generated staging versions powered by pull requests enabling preview versions of your site before publishing.
 
-Here you can see the clone: https://nice-mud-0ac99ad10.1.azurestaticapps.net/
+Here you can see the clone: 
 
-Project demo: https://www.youtube.com/watch?v=NCWi0bf3mqo
+demo:https://nice-mud-0ac99ad10.1.azurestaticapps.net/
+
+
 
 ![image](https://user-images.githubusercontent.com/73474970/174521866-c5d068da-c03a-4b20-8ac2-f38a184ef53f.png)
 
